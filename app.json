@@ -1,9 +1,9 @@
 {
-  "name": "BelajarReactNative",
-  "displayName": "BelajarReactNative",
+  "name": "CrudApp",
+  "displayName": "CrudApp",
   "expo": {
-    "name": "BelajarReactNative",
-    "slug": "BelajarReactNative",
+    "name": "CrudApp",
+    "slug": "CrudApp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
